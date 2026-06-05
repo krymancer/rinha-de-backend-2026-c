@@ -1,0 +1,7 @@
+{
+    "participants": ["krymancer-c"],
+    "social": ["https://github.com/krymancer"],
+    "source-code-repo": "https://github.com/krymancer/rinha-de-backend-2026-c",
+    "stack": ["c", "epoll", "scm_rights", "ivf", "avx2"],
+    "open_to_work": false
+}

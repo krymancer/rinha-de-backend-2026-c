@@ -1,0 +1,5 @@
+bin/
+_research/
+_official/
+.git/
+*.bin

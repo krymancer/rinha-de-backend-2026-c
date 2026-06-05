@@ -1,0 +1,9 @@
+bin/
+*.o
+*.bin
+*.gz
+refs.json
+references.json
+test-data.json
+_research/
+_official/
